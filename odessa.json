@@ -1,28 +1,28 @@
 {
     "response": [
-            {
-                    "maintainer": "dias.thiago__",
-                    "oem": "Motorola",
-                    "device": "Moto G9 Plus",
-                    "filename": "",
-                    "download": "",
-                    "timestamp": "",
-                    "md5": "",
-                    "sha256": "",
-                    "size": "",
-                    "version": "",
-                    "buildtype": "Monthly",
-                    "forum": "",
-                    "gapps": "",
-                    "firmware": "",
-                    "modem": "",
-                    "bootloader": "",
-                    "recovery": "",
-                    "paypal": "",
-                    "telegram": "https://t.me/g9plusupdates",
-                    "dt": "",
-                    "common-dt": "",
-                    "kernel": ""
-            }
+        {
+            "maintainer": "dias.thiago__",
+            "oem": "Motorola",
+            "device": "Moto G9 Plus",
+            "filename": "crDroidAndroid-15.0-20250116-odessa-v11.1-BETA.zip",
+            "download": "https://sourceforge.net/projects/crdroid/files/odessa/11.x/crDroidAndroid-15.0-20250116-odessa-v11.1-BETA.zip/download",
+            "timestamp": 1737052874,
+            "md5": "961434bb0712e93e9648e135c19ebda7",
+            "sha256": "737fd26130fc2631258b46d522cc46fad4fba89ce6d59de36dac2ee1e9ea4880",
+            "size": 1081317572,
+            "version": "11.1",
+            "buildtype": "Monthly",
+            "forum": "",
+            "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-15/",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://t.me/g9plusupdates",
+            "dt": "",
+            "common-dt": "",
+            "kernel": ""
+        }
     ]
 }
