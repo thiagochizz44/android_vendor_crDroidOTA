@@ -1,3 +1,6 @@
-##update-16-01-25##
+##update-17-01-25##
 
-initial build
+Initial OTA build
+Import KernelSU-Next with SuSFS 1.5.3
+Some props optimizations
+New optimizations into the kernel
